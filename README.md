@@ -1,1 +1,1 @@
-# codespace-empty
+# codespace with C++ and CMake
